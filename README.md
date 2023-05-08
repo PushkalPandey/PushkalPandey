@@ -28,6 +28,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PushkalPandey&layout=compact&theme=tokyonight)](https://github.com/PushkalPandey/github-readme-stats)
 
 
-
-
-.
