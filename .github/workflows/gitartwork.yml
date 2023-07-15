@@ -15,4 +15,4 @@
             user_name: PushkalPandey
             # Text on contribution graph 
             text: PUSHKAL
-       - uses: PushkalPandey/simple-push-action@v1
+       - uses: jasineri/simple-push-action@v1
