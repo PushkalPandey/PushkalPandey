@@ -1,5 +1,5 @@
 ![snake gif](https://github.com/PushkalPandey/PushkalPandey/blob/output/github-contribution-grid-snake.svg)
-![gitartwork](https://github.com/PushkalPandey/PushkalPandey/gitartwork.svg)
+![gitartwork]([https://github.com/PushkalPandey/PushkalPandey/gitartwork.svg](https://github.com/PushkalPandey/PushkalPandey/blob/main/gitartwork.svg))
 
 
 
